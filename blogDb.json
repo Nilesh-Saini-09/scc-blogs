@@ -17,6 +17,12 @@
             "title": "(title2)",
             "article": "(article2)",
             "image": "(url2)"
+        },
+        {
+            "id": 3,
+            "title": "(title3)",
+            "article": "(article3)",
+            "image": "(url3)"
         }
     ]
 }
